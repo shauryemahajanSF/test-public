@@ -1,0 +1,14 @@
+{
+  "id": "test-tax",
+  "vendor": "test",
+  "commerceDomain": "tax",
+  "category": "first-party"
+  "description": "lorem ipssum",
+  "logo": "logo.png"
+  "additionalInfoLink": "https://www.test.com/simplify",
+  "version": "1.0.0",
+  "zipFile": "test-tax-v1.0.0.zip",
+  "sha256": "6a6b4ff3b7...",
+  "minECOMVersion": "24.1",
+  "minSFNextVersion": "1.0.0"
+}
